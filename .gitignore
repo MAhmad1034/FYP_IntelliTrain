@@ -1,3 +1,5 @@
 **/.ipynb_checkpoints/
 **/*.keras
 **/*.h5
+**/Dataset/**
+**.pkl
